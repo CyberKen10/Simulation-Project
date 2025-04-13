@@ -6,7 +6,7 @@ En este proyecto, se analiza el sistema de atención al cliente en el local de c
 
 ## Código
 
-El código de la simulación se encuentra en el archivo [`simulacion_panis.py`](simulation.py). Incluye funciones para definir los procesos de clientes, servidores y monitoreo de colas, así como la ejecución de las simulaciones y la generación de gráficos.
+El código de la simulación se encuentra en el archivo [`simulation_panis.py`](simulation.py). Incluye funciones para definir los procesos de clientes, servidores y monitoreo de colas, así como la ejecución de las simulaciones y la generación de gráficos.
 
 ## Dependencias
 
