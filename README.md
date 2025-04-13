@@ -19,4 +19,4 @@ El código de la simulación se encuentra en el archivo [`simulation.py`](simula
 
 Para ejecutar la simulación, clone el repositorio y ejecute el siguiente comando:
 ```bash
-python simulacion_panis.py
+python simulation.py
